@@ -2,7 +2,7 @@ def main():
     """
     Main function of the script.
     """
-    print("Hello")
+    print("BONSOIR")
     
 
 if __name__ == "__main__":
